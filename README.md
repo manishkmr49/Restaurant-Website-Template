@@ -29,7 +29,7 @@ The website is filled with dummy text where needed.
 ## 🚀 Setup/Installation Requirements
 
 To view the website, 
-* click [Responsive-Restaurant-Website](https://github.com/keerti1924/Responsive-Restaurant-Website.git)
+* click [Restaurant-Website-Template](https://dish-delight-restaurant-web-page.netlify.app/)
 or 
 * copy the link https://manishkmr49.github.io/Restaurant-Website-Template/ paste it to your browser and load it.  
 
