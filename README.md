@@ -31,7 +31,7 @@ The website is filled with dummy text where needed.
 To view the website, 
 * click [Responsive-Restaurant-Website](https://github.com/keerti1924/Responsive-Restaurant-Website.git)
 or 
-* copy the link https://github.com/keerti1924/Responsive-Restaurant-Website.git paste it to your browser and load it.  
+* copy the link https://manishkmr49.github.io/Restaurant-Website-Template/ paste it to your browser and load it.  
 
 ## 🛠 Built With
 
